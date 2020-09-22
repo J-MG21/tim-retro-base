@@ -1,0 +1,21 @@
+.carte{
+  background-color: var(--couleur-blanche);
+  box-shadow: 1px 1px 3px 3px rgba(0,0,0,0.5);
+  padding: 30px 15px;
+  width:25%;
+  margin: 40px;
+
+& h4{
+  text-transform: uppercase;
+}
+
+& img{
+  height: 50%;
+  width:50%;
+}
+
+& p{
+  text-align: center;
+}
+
+}

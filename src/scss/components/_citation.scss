@@ -1,0 +1,15 @@
+.citation{
+  background: url("../images/bg-citation.jpg");
+  color:var(--couleur-blanche);
+  padding: 100px;
+
+  background-size: cover;
+  background-position: center;
+
+  & h3{
+    color:var(--couleur-blanche);
+    font-weight: lighter;
+
+    text-transform: uppercase;
+}
+}

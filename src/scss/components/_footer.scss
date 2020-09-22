@@ -1,0 +1,14 @@
+.footer-principal{
+  background-color: var(--couleur-noire);
+  collapse: var(--couleur-blanche);
+  padding: 50px 0;
+
+    & .copyright{
+      display: flex;
+      justify-content: center;
+    }
+    & p{
+      color:var(--couleur-blanche);
+      font-weight: lighter;
+    }
+}
